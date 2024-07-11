@@ -1,0 +1,21 @@
+img{
+    height: 500px;
+    width: 1500px;
+}
+.card-img-top{
+    height: 300px;
+
+}
+p{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.htag{
+    position: absolute;
+    top: 340px;
+    left: 400px;
+    color: red;
+    text-align: justify;
+
+}
